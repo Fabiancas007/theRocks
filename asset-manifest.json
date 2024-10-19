@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/theRocks/static/css/main.e466f987.css",
-    "main.js": "/theRocks/static/js/main.0dbff5ff.js",
+    "main.js": "/theRocks/static/js/main.f467fcee.js",
     "static/js/453.bd5b04ba.chunk.js": "/theRocks/static/js/453.bd5b04ba.chunk.js",
     "static/media/fondo5.webp": "/theRocks/static/media/fondo5.8853d6cdab5248f0006e.webp",
     "static/media/fondo1.webp": "/theRocks/static/media/fondo1.da5306e5fde464f0fc15.webp",
@@ -70,11 +70,11 @@
     "static/media/check.svg": "/theRocks/static/media/check.9784e9c054522e3ee3cbb366476fb366.svg",
     "index.html": "/theRocks/index.html",
     "main.e466f987.css.map": "/theRocks/static/css/main.e466f987.css.map",
-    "main.0dbff5ff.js.map": "/theRocks/static/js/main.0dbff5ff.js.map",
+    "main.f467fcee.js.map": "/theRocks/static/js/main.f467fcee.js.map",
     "453.bd5b04ba.chunk.js.map": "/theRocks/static/js/453.bd5b04ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e466f987.css",
-    "static/js/main.0dbff5ff.js"
+    "static/js/main.f467fcee.js"
   ]
 }
