@@ -1,0 +1,91 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Montserrat:wght@400;600;700&display=swap"); */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --header-height: 3.5rem;
+  --first-color: #E67E22;
+  --second-color: #FFB703;
+  --other-color: #574333;
+  --third-color: #655A53;
+  --fourth-color: #fffcf2;
+  --fifth-color: #DC712B;
+  --sixth-color: #333333;
+  /* --body-font: "Montserrat", sans-serif; */
+  --body-font: 'Merriweather', serif;
+  --second-font: "Dancing Script", cursive;
+}
+
+body {
+  font-family: var(--body-font);
+  background-color: #f0f0f0;
+  /* background-color: #f4f4f4; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;    
+}
+
+main{
+  flex-grow: 1;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, .subtitle {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.carousel {
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.carousel img {
+  height: 100%;
+}
+
+/* Estilos para las secciones con tarjetas */
+.card-section {
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+/* .card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  justify-items: center;
+} */
+
+
+footer {
+  text-align: center;
+  color: var(--fourth-color);
+  background-color: var(--sixth-color);
+}
+
+/* Ocultar carrusel en pantallas pequeñas */
+@media (max-width: 768px) {
+  .carousel {
+      display: none;
+  }
+}

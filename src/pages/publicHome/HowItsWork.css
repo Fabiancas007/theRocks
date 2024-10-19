@@ -1,0 +1,60 @@
+.steps-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  max-width: 900px;
+}
+
+.step-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.step-item:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.step-description {
+  text-align: left;
+}
+
+.step-description h3 {
+  font-size: 1.8rem;
+  color: #343a40;
+  margin-bottom: 10px;
+  transition: color 0.3s ease;
+}
+
+.step-description p {
+  font-size: 1.1rem;
+  color: #6c757d;
+}
+
+.step-item:hover .step-description h3 {
+  color: var(--fifth-color);
+}
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .step-item {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .step-description {
+    text-align: center;
+  }
+}

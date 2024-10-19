@@ -1,0 +1,4763 @@
+[
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Brandon",
+    "YEAR": 1974,
+    "MIN": 0.23,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.2,
+    "MAX": 0.35
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.23,
+    "MAX": 0.32
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.23,
+    "MAX": 0.32
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Ruiz",
+    "YEAR": 1966,
+    "MIN": 0.19,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Bowles",
+    "YEAR": 1997,
+    "MIN": 0.27,
+    "MAX": 0.32
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.1,
+    "MAX": 0.35
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Look",
+    "YEAR": 2014,
+    "MIN": 0.1,
+    "MAX": 0.2
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.19,
+    "MAX": 0.38
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": -0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Conglomerado",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.1,
+    "MAX": 0.4
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diamante",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2022,
+    "MIN": 0.1,
+    "MAX": 0.2
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.2,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.26,
+    "MAX": 0.29
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.29,
+    "MAX": 0.34
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Dunita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.26,
+    "MAX": 0.28
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Epidota",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2023,
+    "MIN": 0.26,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Feldespato de ortoclasa",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2028,
+    "MIN": 0.27,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Gabro",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Gabro",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.08,
+    "MAX": 0.4
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Gabro",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.27,
+    "MAX": 0.31
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Gabro",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.12,
+    "MAX": 0.2
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Michalopoulos y Triandafilidis",
+    "YEAR": 1976,
+    "MIN": 0.26,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Bowles",
+    "YEAR": 1998,
+    "MIN": 0.26,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.1,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.23,
+    "MAX": 0.27
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Look",
+    "YEAR": 2014,
+    "MIN": 0.15,
+    "MAX": 0.25
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.1,
+    "MAX": 0.4
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.18,
+    "MAX": 0.24
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.18,
+    "MAX": 0.24
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Converse",
+    "YEAR": 1962,
+    "MIN": 0.15,
+    "MAX": 0.24
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Converse",
+    "YEAR": 1962,
+    "MIN": 0.15,
+    "MAX": 0.24
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granodiorita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.15,
+    "MAX": 0.25
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Igneas",
+    "AUTHOR": "Hunt",
+    "YEAR": 2006,
+    "MIN": 0.25,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Igneas",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 0.25,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Parker y Scott",
+    "YEAR": 1964,
+    "MIN": 0.09,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.05,
+    "MAX": 0.35
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Magnetita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2025,
+    "MIN": 0.26,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Microgranito",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Norita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.2,
+    "MAX": 0.25
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Obsidiana",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.12,
+    "MAX": 0.18
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Oligoclase",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2029,
+    "MIN": 0.28,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Oligoclase",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.29,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Olivino",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2027,
+    "MIN": 0.24,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Sienita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Cording",
+    "YEAR": 1967,
+    "MIN": 0.24,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.1,
+    "MAX": 0.28
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.24,
+    "MAX": 0.29
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.24,
+    "MAX": 0.29
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Anfibolita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.1,
+    "MAX": 0.4
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Anfíbolita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2018,
+    "MIN": 0.28,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Anfíbolita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.28,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Anhidrita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.3,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Anhidrita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.24,
+    "MAX": 0.31
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Biotita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2020,
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Diabasa",
+    "AUTHOR": "Wuerker",
+    "YEAR": 1956,
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Diabasa",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.1,
+    "MAX": 0.28
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Diabasa",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.27,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Diabasa",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.28,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Diabasa",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.28,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Herget",
+    "YEAR": 1973,
+    "MIN": 0.22,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Bowles",
+    "YEAR": 1999,
+    "MIN": 0.18,
+    "MAX": 0.22
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.05,
+    "MAX": 0.32
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.01,
+    "MAX": 0.31
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": -0.12,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Hunt",
+    "YEAR": 2006,
+    "MIN": 0.25,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": -0.12,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.1,
+    "MAX": 0.4
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 0.25,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Feldespato de Gneiss",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.15,
+    "MAX": 0.2
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Galena",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2024,
+    "MIN": 0.3,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Ruiz",
+    "YEAR": 1966,
+    "MIN": 0.24,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.1,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.08,
+    "MAX": 0.4
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.2,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.2,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.01,
+    "MAX": 0.31
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Marga",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.13,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.15,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.27,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.1,
+    "MAX": 0.4
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.23,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.1,
+    "MAX": 0.4
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Metamorficas",
+    "AUTHOR": "Hunt",
+    "YEAR": 2006,
+    "MIN": 0.25,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Metamorficas",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 0.25,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mica",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.15,
+    "MAX": 0.2
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mica esquisto",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.23,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Kitahara et al",
+    "YEAR": 1974,
+    "MIN": 0.38,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Bowles",
+    "YEAR": 2003,
+    "MIN": 0.25,
+    "MAX": 0.45
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.15,
+    "MAX": 0.2
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.23,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Van Der Vlis",
+    "YEAR": 1970,
+    "MIN": 0.31,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Bowles",
+    "YEAR": 2002,
+    "MIN": 0.2,
+    "MAX": 0.45
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.05,
+    "MAX": 0.4
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Look",
+    "YEAR": 2014,
+    "MIN": 0.15,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.1,
+    "MAX": 0.4
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.24,
+    "MAX": 0.31
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Hunt",
+    "YEAR": 2006,
+    "MIN": 0.25,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.19,
+    "MAX": 0.38
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 0.25,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Argillita",
+    "AUTHOR": "Brandon",
+    "YEAR": 1974,
+    "MIN": 0.22,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Augita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2019,
+    "MIN": 0.24,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Calcita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2021,
+    "MIN": 0.28,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Sellers",
+    "YEAR": 1970,
+    "MIN": 0.32,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Bowles",
+    "YEAR": 2000,
+    "MIN": 0.24,
+    "MAX": 0.45
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.1,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.27,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Look",
+    "YEAR": 2014,
+    "MIN": 0.25,
+    "MAX": 0.35
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.12,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.25,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Hunt",
+    "YEAR": 2006,
+    "MIN": 0.25,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.12,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.25,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Converse",
+    "YEAR": 1962,
+    "MIN": 0.16,
+    "MAX": 0.23
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 0.25,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza porosa",
+    "AUTHOR": "Bowles",
+    "YEAR": 2001,
+    "MIN": 0.35,
+    "MAX": 0.45
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Carbón",
+    "AUTHOR": "Ko y Gerstle",
+    "YEAR": 1976,
+    "MIN": 0.42,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.1,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.12,
+    "MAX": 0.15
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.08,
+    "MAX": 0.24
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.11,
+    "MAX": 0.15
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.08,
+    "MAX": 0.24
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.11,
+    "MAX": 0.15
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarzo",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2030,
+    "MIN": 0.2,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.2,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.26,
+    "MAX": 0.29
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.29,
+    "MAX": 0.34
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomía",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.12,
+    "MAX": 0.2
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Haimson y Fairhurst",
+    "YEAR": 1970,
+    "MIN": 0.29,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.1,
+    "MAX": 0.35
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.3,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.29,
+    "MAX": 0.34
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.15,
+    "MAX": 0.35
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.08,
+    "MAX": 0.23
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Halita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.05,
+    "MAX": 0.3
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Halita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Halita",
+    "AUTHOR": "Belikov",
+    "YEAR": 1967,
+    "MIN": 0.22,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Halita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.22,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Halita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.22,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Parker y Scott",
+    "YEAR": 1964,
+    "MIN": 0.09,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.05,
+    "MAX": 0.35
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lutita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.25,
+    "MAX": 0.29
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Marga",
+    "AUTHOR": "Gereck",
+    "YEAR": 2007,
+    "MIN": 0.13,
+    "MAX": 0.33
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Moscovita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2026,
+    "MIN": 0.25,
+    "MAX": ""
+  },
+  {
+    "TEST": "Relación de Poisson",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Yeso",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 0.24,
+    "MAX": 0.29
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Brandon",
+    "YEAR": 1974,
+    "MIN": 37,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Ruiz",
+    "YEAR": 1966,
+    "MIN": 61,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 60,
+    "MAX": 100
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Bowles",
+    "YEAR": 1997,
+    "MIN": 17,
+    "MAX": 103
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 32,
+    "MAX": 100
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 32,
+    "MAX": 100
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Geology",
+    "YEAR": 1976,
+    "MIN": 33.3,
+    "MAX": 78
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diamante",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2022,
+    "MIN": 1050,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 70,
+    "MAX": 100
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 20,
+    "MAX": 170
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 20,
+    "MAX": 170
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 75,
+    "MAX": 108
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Epidota",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2023,
+    "MIN": 154.2,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Feldespato de Gneiss",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 83,
+    "MAX": 118
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Feldespato de ortoclasa",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2028,
+    "MIN": 67.2,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Gabro",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 10,
+    "MAX": 65
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Gabro",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 89,
+    "MAX": 127
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Grabo",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 70,
+    "MAX": 110
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Grabo",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 10,
+    "MAX": 65
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Michalopoulos y Triandafilidis",
+    "YEAR": 1976,
+    "MIN": 58.6,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 20,
+    "MAX": 60
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Bowles",
+    "YEAR": 1998,
+    "MIN": 14,
+    "MAX": 83
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 17,
+    "MAX": 77
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 17,
+    "MAX": 77
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 73,
+    "MAX": 86
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Converse",
+    "YEAR": 1962,
+    "MIN": 31,
+    "MAX": 57
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Converse",
+    "YEAR": 1962,
+    "MIN": 7,
+    "MAX": 14
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Igneas",
+    "AUTHOR": "Hunt",
+    "YEAR": 2006,
+    "MIN": 60,
+    "MAX": 100
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Igneas",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 57,
+    "MAX": 96
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Parker y Scott",
+    "YEAR": 1964,
+    "MIN": 53,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 53,
+    "MAX": 75
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 53,
+    "MAX": 75
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Magnetita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2025,
+    "MIN": 230.8,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Obsidiana",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 65,
+    "MAX": 80
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Oligoclase",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2029,
+    "MIN": 80.8,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Oligoclase",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 80,
+    "MAX": 85
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Olivino",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2027,
+    "MIN": 200.1,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Sienita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 60,
+    "MAX": 80
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Cording",
+    "YEAR": 1967,
+    "MIN": 3.45,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 3.45,
+    "MAX": 7.6
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 3,
+    "MAX": 7.6
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Anfibolita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 13,
+    "MAX": 92
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Biotita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2020,
+    "MIN": 69.6,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Herget",
+    "YEAR": 1973,
+    "MIN": 95.2,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Bowles",
+    "YEAR": 1999,
+    "MIN": 7,
+    "MAX": 83
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 6,
+    "MAX": 39
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 20,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Hunt",
+    "YEAR": 2006,
+    "MIN": 10,
+    "MAX": 40
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 6,
+    "MAX": 39
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 20,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 10,
+    "MAX": 40
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Feldespato de Gneiss",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 83,
+    "MAX": 118
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Galena",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2024,
+    "MIN": 71.7,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Ruiz",
+    "YEAR": 1966,
+    "MIN": 79.9,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 17,
+    "MAX": 81
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 53,
+    "MAX": 55
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 17,
+    "MAX": 81
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 53,
+    "MAX": 55
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Marga",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 4,
+    "MAX": 34
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Marga",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 4,
+    "MAX": 34
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 28,
+    "MAX": 72
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 28,
+    "MAX": 72
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 87,
+    "MAX": 108
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Metamorficas",
+    "AUTHOR": "Hunt",
+    "YEAR": 2006,
+    "MIN": 60,
+    "MAX": 100
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Metamorficas",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 57,
+    "MAX": 96
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mica",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 10,
+    "MAX": 20
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mica",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 79,
+    "MAX": 101
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mica esquisto",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 10,
+    "MAX": 20
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Kitahara et al",
+    "YEAR": 1974,
+    "MIN": 21.9,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Bowles",
+    "YEAR": 2003,
+    "MIN": 30,
+    "MAX": 210
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 50,
+    "MAX": 120
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 50,
+    "MAX": 120
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 79,
+    "MAX": 112
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Van Der Vlis",
+    "YEAR": 1970,
+    "MIN": 29.9,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 50,
+    "MAX": 80
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Bowles",
+    "YEAR": 2002,
+    "MIN": 30,
+    "MAX": 72
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 30,
+    "MAX": 61
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Hunt",
+    "YEAR": 2006,
+    "MIN": 4,
+    "MAX": 8
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 30,
+    "MAX": 61
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 38,
+    "MAX": 76
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Argillita",
+    "AUTHOR": "Brandon",
+    "YEAR": 1974,
+    "MIN": 68,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Argillita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 20,
+    "MAX": 50
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Augita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2019,
+    "MIN": 143.7,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Calcita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2021,
+    "MIN": 81,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Sellers",
+    "YEAR": 1970,
+    "MIN": 53.9,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 10,
+    "MAX": 80
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Bowles",
+    "YEAR": 2000,
+    "MIN": 21,
+    "MAX": 103
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 15,
+    "MAX": 90
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 29,
+    "MAX": 60
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Hunt",
+    "YEAR": 2006,
+    "MIN": 40,
+    "MAX": 80
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 15,
+    "MAX": 91
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 29,
+    "MAX": 60
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 87,
+    "MAX": 108
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Converse",
+    "YEAR": 1962,
+    "MIN": 21,
+    "MAX": 48
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 38,
+    "MAX": 76
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza porosa",
+    "AUTHOR": "Bowles",
+    "YEAR": 2001,
+    "MIN": 30,
+    "MAX": 83
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Carbón",
+    "AUTHOR": "Ko y Gerstle",
+    "YEAR": 1976,
+    "MIN": 34.5,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Carbón",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 10,
+    "MAX": 20
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Carbón",
+    "AUTHOR": "Hunt",
+    "YEAR": 1986,
+    "MIN": 10,
+    "MAX": 20
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 22,
+    "MAX": 100
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 42,
+    "MAX": 85
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 22,
+    "MAX": 101
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 42,
+    "MAX": 85
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 82,
+    "MAX": 97
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarzo",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2030,
+    "MIN": 96.4,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 70,
+    "MAX": 100
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 20,
+    "MAX": 107
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 20,
+    "MAX": 107
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 75,
+    "MAX": 108
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolerita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 80,
+    "MAX": 110
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomía",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 40,
+    "MAX": 51
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Haimson y Fairhurst",
+    "YEAR": 1970,
+    "MIN": 51.7,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 40,
+    "MAX": 84
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 40,
+    "MAX": 51
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Lambe y Whitman",
+    "YEAR": 1979,
+    "MIN": 110,
+    "MAX": 121
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 47,
+    "MAX": 63
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 47,
+    "MAX": 63
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Parker y Scott",
+    "YEAR": 1964,
+    "MIN": 53,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 53,
+    "MAX": 75
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 53,
+    "MAX": 75
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lulita",
+    "AUTHOR": "Propiedades de las Rocas",
+    "YEAR": "",
+    "MIN": 10,
+    "MAX": 35
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lulita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 3,
+    "MAX": 22
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lutita",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 3,
+    "MAX": 22
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Marga",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 4,
+    "MAX": 34
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Marga",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 4,
+    "MAX": 34
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Moscovita",
+    "AUTHOR": "Verbrugge y Schroeder",
+    "YEAR": 2026,
+    "MIN": 78.9,
+    "MAX": ""
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Yeso",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 15,
+    "MAX": 36
+  },
+  {
+    "TEST": "Modulo de Elasticidad",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Yeso",
+    "AUTHOR": "Gonzáles de Vallejo",
+    "YEAR": 2002,
+    "MIN": 15,
+    "MAX": 36
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Gabro",
+    "AUTHOR": "Gonzáles de Vallejo et al.",
+    "YEAR": 2002,
+    "MIN": 35,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Gabro",
+    "AUTHOR": "Sandoval Vallejo y Rivera Mena",
+    "YEAR": 2020,
+    "MIN": 35,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 48,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 48,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 48,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 48,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 48,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Handbook of Geotechnical Investigación and Design Tables",
+    "YEAR": 2007,
+    "MIN": 40,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Barton",
+    "YEAR": 1973,
+    "MIN": 34,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Jaeger y Cook",
+    "YEAR": 1976,
+    "MIN": 34,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": "",
+    "MAX": 42
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Gonzáles de Vallejo et al.",
+    "YEAR": 2002,
+    "MIN": 48,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Sandoval Vallejo y Rivera Mena",
+    "YEAR": 2020,
+    "MIN": 48,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Gunaratne",
+    "YEAR": 2013,
+    "MIN": 34,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 45,
+    "MAX": 58
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 45,
+    "MAX": 58
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 45,
+    "MAX": 58
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 45,
+    "MAX": 58
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 45,
+    "MAX": 58
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Barton",
+    "YEAR": 1973,
+    "MIN": 34,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Jaeger y Cook",
+    "YEAR": 1976,
+    "MIN": 34,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 45,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Gonzáles de Vallejo et al.",
+    "YEAR": 2002,
+    "MIN": 45,
+    "MAX": 58
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Sandoval Vallejo y Rivera Mena",
+    "YEAR": 2022,
+    "MIN": 45,
+    "MAX": 58
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Gunaratne",
+    "YEAR": 2014,
+    "MIN": 34,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Ameratunga et al.",
+    "YEAR": 2016,
+    "MIN": "",
+    "MAX": 33
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 45,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 45,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 45,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 45,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 45,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Gonzáles de Vallejo et al.",
+    "YEAR": 2002,
+    "MIN": 45,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Sandoval Vallejo y Rivera Mena",
+    "YEAR": 2019,
+    "MIN": 45,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 50,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 50,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 50,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 50,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 50,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Barton",
+    "YEAR": 1973,
+    "MIN": 34,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Jaeger y Cook",
+    "YEAR": 1976,
+    "MIN": 34,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 35,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Barton",
+    "YEAR": 1973,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Jaeger y Cook",
+    "YEAR": 1976,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Gonzáles de Vallejo et al.",
+    "YEAR": 2002,
+    "MIN": 15,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Sandoval Vallejo y Rivera Mena",
+    "YEAR": 2022,
+    "MIN": 15,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Evrim Sopaci y Haluk Akgüns",
+    "YEAR": 2019,
+    "MIN": 14,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Marga",
+    "AUTHOR": "Barton",
+    "YEAR": 1973,
+    "MIN": 20,
+    "MAX": 27
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Marga",
+    "AUTHOR": "Jaeger y Cook",
+    "YEAR": 1976,
+    "MIN": 20,
+    "MAX": 27
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Filitas",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 25,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 15,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 15,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 15,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 15,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 15,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Barton",
+    "YEAR": 1973,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Jaeger y Cook",
+    "YEAR": 1976,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 25,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": "",
+    "MAX": 33
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 12,
+    "MAX": 25
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 25,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 25,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 25,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 25,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 25,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 20,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 20,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 20,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 20,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 20,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Barton",
+    "YEAR": 1973,
+    "MIN": 20,
+    "MAX": 27
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Jaeger y Cook",
+    "YEAR": 1976,
+    "MIN": 20,
+    "MAX": 27
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 25,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": "",
+    "MAX": 32
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": "",
+    "MAX": 31
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 25,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 20,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 25,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Gunaratne",
+    "YEAR": 2016,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Barton",
+    "YEAR": 1973,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Jaeger y Cook",
+    "YEAR": 1976,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 35,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 35,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 35,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 35,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 35,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Sedimentario blando",
+    "AUTHOR": "Handbook Pg Geotechnical Investigación And Design Tables",
+    "YEAR": 2007,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Sedimentario duro",
+    "AUTHOR": "Handbook Pg Geotechnical Investigación And Design Tables",
+    "YEAR": 2008,
+    "MIN": 35,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Carbón",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 25,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "TIZA",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 25,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lutita",
+    "AUTHOR": "Gonzáles de Vallejo et al.",
+    "YEAR": 2002,
+    "MIN": 40,
+    "MAX": 60
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lutita",
+    "AUTHOR": "Sandoval Vallejo y Rivera Mena",
+    "YEAR": 2021,
+    "MIN": 40,
+    "MAX": 60
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diabasa",
+    "AUTHOR": "Gonzáles de Vallejo et al.",
+    "YEAR": 2002,
+    "MIN": 40,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diabasa",
+    "AUTHOR": "Sandoval Vallejo y Rivera Mena",
+    "YEAR": 2019,
+    "MIN": 40,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grava",
+    "AUTHOR": "Budhu",
+    "YEAR": 2008,
+    "MIN": 30,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Conglomerado",
+    "AUTHOR": "Barton",
+    "YEAR": 1973,
+    "MIN": 34,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Conglomerado",
+    "AUTHOR": "Jaeger y Cook",
+    "YEAR": 1976,
+    "MIN": 34,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Yeso",
+    "AUTHOR": "Gonzáles de Vallejo et al.",
+    "YEAR": 2002,
+    "MIN": 30,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Yeso",
+    "AUTHOR": "Sandoval Vallejo y Rivera Mena",
+    "YEAR": 2023,
+    "MIN": 30,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 35,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 14.5,
+    "MAX": 17
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 25,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Gunaratne",
+    "YEAR": 2013,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Barton",
+    "YEAR": 1973,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Jaeger y Cook",
+    "YEAR": 1976,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Ameratunga et al.",
+    "YEAR": 2016,
+    "MIN": "",
+    "MAX": 42
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 30,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 35,
+    "MAX": 45
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 25,
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 35,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 35,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 35,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 35,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 35,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 35,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 30,
+    "MAX": 30
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Ameratunga et al.",
+    "YEAR": 2017,
+    "MIN": "",
+    "MAX": 35
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Gunaratne",
+    "YEAR": 2014,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Gunaratne",
+    "YEAR": 2015,
+    "MIN": 27,
+    "MAX": 34
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 10,
+    "MAX": 38
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": "",
+    "MAX": 41
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 30,
+    "MAX": 40
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 40,
+    "MAX": 55
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 45,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 45,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 45,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 45,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 45,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 45,
+    "MAX": 50
+  },
+  {
+    "TEST": "Ángulo de Fricción",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 35,
+    "MAX": 45
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 28,
+    "MAX": ""
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 28,
+    "MAX": ""
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 30,
+    "MAX": 50
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Barton y Hoek",
+    "YEAR": "",
+    "MIN": "",
+    "MAX": 24.2
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": 24,
+    "MAX": 42
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": "",
+    "MAX": 150
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": "",
+    "MAX": 150
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Hoek y Bray",
+    "YEAR": 1977,
+    "MIN": "",
+    "MAX": 100
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 30,
+    "MAX": 50
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 15,
+    "MAX": 50
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Gabro",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 30,
+    "MAX": ""
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 0.7,
+    "MAX": ""
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Piroclástica gruesa",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 20,
+    "MAX": 20
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "No piroclástica gruesa",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 40,
+    "MAX": 40
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Piroclástica media",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 10,
+    "MAX": 10
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "No piroclástica gmedia",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 30,
+    "MAX": 30
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Piroclástica fino",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 5,
+    "MAX": 5
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "No piroclástica fino",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 20,
+    "MAX": 20
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Diabasa",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 90,
+    "MAX": 120
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Filita",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 10,
+    "MAX": 30
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 10,
+    "MAX": 30
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 15,
+    "MAX": 20
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 15,
+    "MAX": 25
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 15,
+    "MAX": 40
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 15,
+    "MAX": 40
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 20,
+    "MAX": 40
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Marmol",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 15,
+    "MAX": 35
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 10,
+    "MAX": 30
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 10,
+    "MAX": 50
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Foliada gruesa",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2012,
+    "MIN": "",
+    "MAX": 20
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "No foliada gruesa",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2012,
+    "MIN": "",
+    "MAX": 30
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Foliada media",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2012,
+    "MIN": "",
+    "MAX": 10
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "No foliada media",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2012,
+    "MIN": "",
+    "MAX": 15
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Foliada fina",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2012,
+    "MIN": "",
+    "MAX": 2
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "No foliada fina",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2012,
+    "MIN": "",
+    "MAX": 5
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2012,
+    "MIN": 5,
+    "MAX": 15
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 8,
+    "MAX": 35
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 0.5,
+    "MAX": 4
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 0.5,
+    "MAX": 4
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 0.5,
+    "MAX": 4
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 0.5,
+    "MAX": 4
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Iménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 0.5,
+    "MAX": 4
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 1,
+    "MAX": 6
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 25,
+    "MAX": 70
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 20,
+    "MAX": 40
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomía",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 1,
+    "MAX": 30
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomía",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 22,
+    "MAX": 60
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomita",
+    "AUTHOR": "Barton y Hoek",
+    "YEAR": "",
+    "MIN": 2,
+    "MAX": 40
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Carbón",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 1,
+    "MAX": 20
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarzo",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 2.5,
+    "MAX": 7
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarzo",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 2.5,
+    "MAX": 7
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarzo",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 2.5,
+    "MAX": 7
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarzo",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 2.5,
+    "MAX": 7
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarzo",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 2.5,
+    "MAX": 7
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": "",
+    "MAX": 150
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Limolita",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 1,
+    "MAX": 30
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lulita",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 0.3,
+    "MAX": 35
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lulita",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 0.3,
+    "MAX": 35
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lulita",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 0.3,
+    "MAX": 35
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lulita",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 0.3,
+    "MAX": 35
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lulita",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 0.3,
+    "MAX": 35
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2007,
+    "MIN": 1,
+    "MAX": 30
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Walthan",
+    "YEAR": 1999,
+    "MIN": 0.6,
+    "MAX": 1
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Rahn",
+    "YEAR": 1986,
+    "MIN": 0.6,
+    "MAX": 1
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Goodman",
+    "YEAR": 1989,
+    "MIN": 0.6,
+    "MAX": 1
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Farmer",
+    "YEAR": 1968,
+    "MIN": 0.6,
+    "MAX": 1
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "JIménez Salas y Justo Alpaflés",
+    "YEAR": 1975,
+    "MIN": 0.6,
+    "MAX": 1
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": 6,
+    "MAX": 10
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Conglomerados Clástica",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2012,
+    "MIN": "",
+    "MAX": 30
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Conglomerados formado quimicamente",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2012,
+    "MIN": "",
+    "MAX": 20
+  },
+  {
+    "TEST": "Cohesión Drenada",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Conglomerados restos organicos",
+    "AUTHOR": "Handbook of Geotechnical Investigation and Design Tables",
+    "YEAR": 2012,
+    "MIN": "",
+    "MAX": 10
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Bowles",
+    "YEAR": 1997,
+    "MIN": "",
+    "MAX": 28
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Basalto",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 27,
+    "MAX": 29
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Bowles",
+    "YEAR": 1997,
+    "MIN": "",
+    "MAX": 26.4
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Granito",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 26,
+    "MAX": 27
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Andesita",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 22,
+    "MAX": 23.5
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 27,
+    "MAX": 28.5
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Gabro",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 30,
+    "MAX": 31
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Toba",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2019,
+    "MIN": "",
+    "MAX": 23
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Ígnea",
+    "ROCK_TYPE": "Riolita",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2020,
+    "MIN": 24,
+    "MAX": 26
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Diabasa",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": "",
+    "MAX": 2.9
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Esquisto",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 2.5,
+    "MAX": 2.8
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Gneiss",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 2.7,
+    "MAX": 3
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Mármol",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 2.6,
+    "MAX": 2.8
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Metamórfica",
+    "ROCK_TYPE": "Pizarra",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 2.5,
+    "MAX": 2.7
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 23,
+    "MAX": 26
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Arenisca",
+    "AUTHOR": "Vallejo y otros",
+    "YEAR": 2003,
+    "MIN": "",
+    "MAX": 35
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Caliza",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 21,
+    "MAX": 26
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Cuarcita",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 26,
+    "MAX": 27
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Dolomía",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 25,
+    "MAX": 26
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Carbón",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2018,
+    "MIN": 10,
+    "MAX": 20
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Diorita",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2020,
+    "MIN": 27,
+    "MAX": 28.5
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Lulita",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2022,
+    "MIN": 22,
+    "MAX": 26
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Creta",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2023,
+    "MIN": 17,
+    "MAX": 23
+  },
+  {
+    "TEST": "Peso Unitario",
+    "ORIGIN": "Sedimentaria",
+    "ROCK_TYPE": "Grauvaca",
+    "AUTHOR": "Lara y Lemus",
+    "YEAR": 2023,
+    "MIN": "",
+    "MAX": 28
+  }
+]

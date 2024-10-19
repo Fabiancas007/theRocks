@@ -1,0 +1,27 @@
+input {
+    padding: 12px;
+    font-size: 1rem;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    transition: border-color 0.3s ease;
+}
+
+input:focus {
+    border-color: var(--second-color);
+    caret-color: var(--first-color);
+    outline: none;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+
+    input {
+        display: flex;
+        align-content: center;
+        width: 100%;
+        /* Ocupan todo el ancho disponible */
+        font-size: 1rem;
+        padding: 10px;
+        /* Reducimos el padding en pantallas pequeñas */
+    }
+}

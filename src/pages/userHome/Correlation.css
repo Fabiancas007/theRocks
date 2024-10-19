@@ -1,0 +1,35 @@
+.correlation-section {
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.correlation-section h2 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+/* Filtros */
+.filters-corr {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: self-end;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.filters-corr div:hover {
+  background-color: #f0f8ff;
+}
+
+@media (max-width: 768px) {
+  .filters-corr {
+    flex-direction: column;
+    align-items: normal;
+    gap: 10px;
+  }
+  .correlation-section h2 {
+    font-size: 1.8rem;
+  }
+}

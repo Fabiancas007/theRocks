@@ -1,0 +1,59 @@
+  .navbar-section {
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.8);
+    /* font-family: "SF Pro Text", "Miriad Set Pro", "Helvetica Neue"; */
+    /* font-size: 16px; */
+    font-weight: 400;
+
+    .nav-link {
+      color: #F5F5F7;
+      margin-right: 15px;
+      font-size: 1.1rem;
+    }
+
+    .nav-link:hover,
+    .nav-link:focus,
+    .nav-dropdown:focus,
+    .nav-dropdown-item:hover,
+    .nav-dropdown-item:focus {
+      color: var(--second-color) !important;
+    }
+
+    .nav-dropdown-item:hover {
+      background-color: rgba(0, 0, 0, 0.3);
+    }
+
+    .navbar-toggler {
+      cursor: pointer;
+      border: none;
+    }
+
+    .navbar-toggler:focus {
+      box-shadow: none;
+      outline: none;
+    }
+
+    .navbar-toggler-icon {
+      filter: brightness(0) invert(1) !important;
+    }
+
+
+    .user-avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .dropdownMenu {
+      min-width: 200px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      padding: 10px;
+    }
+    .username {
+      font-weight: bold;
+    }    
+  }
