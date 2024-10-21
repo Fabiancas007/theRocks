@@ -1,6 +1,6 @@
 import "./HowItsWork.css";
 import { Button } from "../../components/Button";
-import img1 from "../../assets/img3.webp";
+import img1 from "../../assets/images/webp/geologist.webp";
 import { Col, Row, Container } from "react-bootstrap";
 
 export const HowItsWork = () => {
@@ -9,8 +9,8 @@ export const HowItsWork = () => {
       <h2 className="subtitle">¿Cómo funciona la aplicación?</h2>
       <Container>
         <Row className="align-items-center">
-          <Col md={6} className="text-center mb-4 mb-md-0">
-            <img src={img1} alt="rock_type" className="img-fluid left-image" />
+          <Col md={6}>
+            <img src={img1} alt="rock_type" className="img-fluid" />
           </Col>
           <Col md={6}>
             <ul className="steps-list">

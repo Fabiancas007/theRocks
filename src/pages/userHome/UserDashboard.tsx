@@ -1,9 +1,9 @@
 import "./UserDashboard.css";
-import test from "../../assets/test.gif";
-import rocks from "../../assets/rocks.gif";
-import correlations from "../../assets/correlations.gif";
-import support from "../../assets/support.gif";
-import settings from "../../assets/settings.gif";
+import test from "../../assets/images/gif/test.gif";
+import rocks from "../../assets/images/gif/rocks.gif";
+import correlations from "../../assets/images/gif/correlations.gif";
+import support from "../../assets/images/gif/support.gif";
+import settings from "../../assets/images/gif/settings.gif";
 import { Card } from "../../components/Card";
 
 export const Dashboard = () => {

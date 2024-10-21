@@ -1,8 +1,9 @@
 import './Test.css';
-import correlationsData from '../../assets/Correlations.json';
-import React, { useState } from 'react';
+import correlationsData from '../../assets/data/Correlations.json';
 import { SelectInput } from '../../components/SelectInput';
 import { Button } from '../../components/Button';
+import { useState } from 'react';
+import graphic from "../../assets/images/svg/graphic.svg";
 
 // Importar dinámicamente las imágenes
 const importAll = (r: __WebpackModuleApi.RequireContext) => {
@@ -14,7 +15,7 @@ const importAll = (r: __WebpackModuleApi.RequireContext) => {
 };
 
 // @ts-ignore: Ignorar verificación de TypeScript para require.context
-const images = importAll(require.context('../../assets/graphics', true, /\.(webp|svg)$/));
+const images = importAll(require.context('../../assets/images/webp/graphics', true, /\.(webp)$/));
 
 export const Test: React.FC = () => {
   const [selectedTest, setSelectedTest] = useState<string>('');
@@ -22,7 +23,7 @@ export const Test: React.FC = () => {
   const [selectedRockType, setSelectedRockType] = useState<string>('');
   const [elasticityModulus, setElasticityModulus] = useState<string>('');
   const [predictedValue, setPredictedValue] = useState<string | null>(null);
-  const [imagePath, setImagePath] = useState<string>(images['graphic.svg'] || ''); // Ruta inicial de la imagen
+  const [imagePath, setImagePath] = useState<string>('../../assets/images/svg/graphic.svg'); // Ruta inicial de la imagen
 
   // Obtener las opciones únicas para el campo "TEST"
   const testOptions = Array.from(new Set(correlationsData.map((item) => item.TEST)));
@@ -54,14 +55,14 @@ export const Test: React.FC = () => {
     if (image) {
       setImagePath(image);
     } else {
-      setImagePath(images['graphic.svg']); // Imagen por defecto
+      setImagePath(graphic); // Imagen por defecto
     }
   };
 
   // Función para manejar el error de carga de la imagen y mostrar la imagen por defecto
   const handleImageError = (e: React.SyntheticEvent<HTMLImageElement>): void => {
     e.currentTarget.onerror = null; // Previene bucles infinitos
-    e.currentTarget.src = images['graphic.svg']; // Ruta por defecto
+    e.currentTarget.src = graphic ; // Ruta por defecto
   };
 
   return (

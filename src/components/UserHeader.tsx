@@ -1,5 +1,5 @@
 import "./UserHeader.css";
-import logo from "../assets/LogoHorWhite.svg";
+import logo from "../assets/images/svg/logos/LogoHorWhite.svg";
 import { Navbar, Container, Nav, NavDropdown, Dropdown } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import { useState } from "react";
@@ -26,10 +26,10 @@ export const UserHeader = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto pe-5">
-              <Nav.Link href="/dashboard">Inicio</Nav.Link>
-              <Nav.Link href="/test">Pruebas</Nav.Link>
-              <Nav.Link href="/rocks">Rocas</Nav.Link>
-              <Nav.Link href="/correlations">Correlaciones</Nav.Link>
+              <Nav.Link as={Link} to="/dashboard">Inicio</Nav.Link>
+              <Nav.Link as={Link} to="/test">Pruebas</Nav.Link>
+              <Nav.Link as={Link} to="/rocks">Rocas</Nav.Link>
+              <Nav.Link as={Link} to="/correlations">Correlaciones</Nav.Link>
               <NavDropdown
                 className="nav-dropdown"
                 title="Soporte"

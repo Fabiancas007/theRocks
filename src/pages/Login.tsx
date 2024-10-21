@@ -1,110 +1,100 @@
 import "./Login.css";
-import img from "../assets/img3.webp";
-import logo from "../assets/LogoHorBlack.svg";
-import { Link } from "react-router-dom";
-import { Col, Row } from "react-bootstrap";
+import logo from "../assets/images/svg/logos/logo.svg";
+import React, { useState } from "react";
 import { Button } from "../components/Button";
+import { SearchInput } from "../components/SearchInput";
+import { Link } from "react-router-dom";
 import { FaUser, FaLock } from "react-icons/fa";
 import { FcGoogle } from "react-icons/fc";
 
 export const Login = () => {
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  // const [rememberMe, setRememberMe] = useState(false);
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    console.log("Formulario de login enviado:", {
+      email,
+      password,
+      // rememberMe,
+    });
+  };
+
   return (
-    <Row className="vh-100 g-0">
-      {/* Lado izquierdo */}
-      <Col className="col-lg-6 position-relative d-none d-lg-block">
-        <div
-          className="bg-holder"
-          style={{ backgroundImage: `url(${img})` }}
-        ></div>
-      </Col>
+    <section className="signup-container">
+      <form className="signup-form" onSubmit={handleSubmit}>
+        <div className="logo-container">
+          <Link to={"/"}>
+            <img src={logo} alt="Logo de TheRocks" className="signup-logo" />
+          </Link>
+        </div>
+        <h2>Inicia sesión</h2>
+        <p>Obtén acceso a tu cuenta.</p>
 
-      {/* Lado derecho */}
-      <Col className="col-lg-6">
-        <Row className=" form-row">
-          <Col className="col col-sm-6 col-lg-7 col-xl-6">
-            {/* Logo */}
-            <a href="/" className="d-flex justify-content-center mb-4">
-              <img src={logo} alt="Logo TheRocks" height={70} />
-            </a>
-
-            <div className="text-center mb-5">
-              <h3>Inicia sesión</h3>
-              <p className="text-secondary">Obtén acceso a tu cuenta</p>
+        <div className="signup-inputs login-inputs">
+          <div className="input-with-icon">
+            <div className="input-icon-container">
+              <FaUser className="input-icon" />
             </div>
-
-            {/* Form */}
-            <form action="#">
-              <div className="input-group mb-3">
-                <span className="input-group-text">
-                  <FaUser />
-                </span>
-                <input
-                  type="text"
-                  className="form-control form-control-lg fs-6"
-                  placeholder="Usuario"
-                />
-              </div>
-              <div className="input-group mb-3">
-                <span className="input-group-text">
-                  <FaLock />
-                </span>
-                <input
-                  type="password"
-                  className="form-control form-control-lg fs-6"
-                  placeholder="Contraseña"
-                />
-              </div>
-
-              <Button label="Ingresar" route="/dashboard" className="primary" style={{ width: '100%' }}/>
-
-              {/* Divisor */}
-              <div className="position-relative">
-                <hr className="text-secondary" />
-                <div className="divider-content-center">ó</div>
-              </div>
-
-              {/* Inicio de sesión con Gmail */}
-              <button className="btn btn-outline-secondary w-100 mb-">
-                <FcGoogle />Ingresar
-                con Google
-              </button>
-
-              <div className="input-group mb-3 d-flex justify-content-between">
-                <div className="form-check">
-                  <input
-                    type="checkbox"
-                    className="form-check-input"
-                    id="formCheck"
-                  />
-                  <label
-                    htmlFor="formCheck"
-                    className="form-check-label text-secondary"
-                  >
-                    <small>Recuerdame</small>
-                  </label>
-                </div>
-                <div>
-                  <small>
-                    <Link to="#" className="form-link">
-                      ¿Olvido su contraseña?
-                    </Link>
-                  </small>
-                </div>
-              </div>
-              <Button label="Volver" route="/" className="secondary" />
-
-            </form>
-            <div className="form-paragraph">
-              <small>
-                ¿Aún no tiene una cuenta?
-                <Link to="/signup" className="form-link ps-3 fw-bold">
-                  Registrese
-                </Link>
-              </small>
+            <SearchInput
+              placeholder="Correo electrónico"
+              value={email}
+              onSearch={setEmail}
+            />
+          </div>
+          <div className="input-with-icon">
+            <div className="input-icon-container">
+              <FaLock className="input-icon" />
             </div>
-          </Col>
-        </Row>
-      </Col>
-    </Row>
+            <SearchInput
+              placeholder="Contraseña"
+              value={password}
+              onSearch={setPassword}
+              type="password"
+            />
+          </div>
+        </div>
+        <Button
+          label="Ingresar"
+          route="/dashboard"
+          className="primary"
+          style={{ width: "100%" }}
+        />
+        {/* Divisor */}
+        <div className="position-relative">
+          <hr className="text-secondary" />
+          <div className="divider-content-center">ó</div>
+        </div>
+
+        {/* Inicio de sesión con Gmail */}
+        <button className="btn btn-outline-secondary w-100 mb-">
+          <FcGoogle />
+          Ingresar con Google
+        </button>
+
+        <div className="mt-3 d-flex justify-content-between">
+          <div className= "signup-terms">
+            <input type="checkbox" id="formCheck"/>
+            <label htmlFor="formCheck">
+              Recuerdame
+            </label>
+          </div>
+          <div>
+              <Link to="/forgot-password" className="form-link">
+                ¿Olvido su contraseña?
+              </Link>
+          </div>
+        </div>
+        <Button label="Volver" route="/" className="secondary" />
+
+        <div className="mt-3 d-flex justify-content-between">
+            ¿Aún no tiene una cuenta?
+            <Link to="/signup" className="form-link fw-bold">
+              Registrese
+            </Link>
+        </div>
+      </form>
+    </section>
   );
 };

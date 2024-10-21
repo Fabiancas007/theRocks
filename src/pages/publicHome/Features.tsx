@@ -1,9 +1,9 @@
-import analytics from "../../assets/analytics.svg";
-import money from "../../assets/money.svg";
-import engineer from "../../assets/engineers.svg";
-import accessibility from "../../assets/accessibility.svg";
-import group from "../../assets/group.svg";
-import check from "../../assets/check.svg";
+import analytics from "../../assets/images/svg/analytics.svg";
+import money from "../../assets/images/svg/money.svg";
+import engineer from "../../assets/images/svg/engineers.svg";
+import accessibility from "../../assets/images/svg/accessibility.svg";
+import group from "../../assets/images/svg/group.svg";
+import check from "../../assets/images/svg/check.svg";
 import { Card } from "../../components/Card";
 
 export const Features = () => {

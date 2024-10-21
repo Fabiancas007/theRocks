@@ -29,13 +29,13 @@ function App() {
       {/* Rutas privadas */}
       <Route element={<UserLayout />}>
         <Route path="/workspace" element={<UserHome />} />
-        <Route path="dashboard" element={<Dashboard />} />
-        <Route path="test" element={<Test />} />
-        <Route path="rocks" element={<Rock />} />
-        <Route path="correlations" element={<Correlation />} />
-        <Route path="support" element={<Support />} />
-        <Route path="resources" element={<Resources />} />
-        <Route path="support">
+        <Route path="/dashboard" element={<Dashboard />} />
+        <Route path="/test" element={<Test />} />
+        <Route path="/rocks" element={<Rock />} />
+        <Route path="/correlations" element={<Correlation />} />
+        <Route path="/support" element={<Support />} />
+        <Route path="/resources" element={<Resources />} />
+        <Route path="/support">
           <Route index element={<Support />} />
           <Route path="faq" element={<FAQ />} />
           <Route path="documentation" element={<Documentation />} />

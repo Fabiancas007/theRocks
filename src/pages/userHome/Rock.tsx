@@ -1,6 +1,6 @@
 import "./Rock.css";
-import rocksData from "../../assets/Rocas_canvas_info.json";
-import correlationsData from "../../assets/Correlations.json";
+import rocksData from "../../assets/data/Rocas_canvas_info.json";
+import correlationsData from "../../assets/data/Correlations.json";
 import { SelectInput } from "../../components/SelectInput";
 import { SearchInput } from "../../components/SearchInput";
 import { Card } from "../../components/Card";
@@ -17,7 +17,7 @@ const importAll = (requireContext: any) => {
 
 // Importa todas las imágenes dentro de la carpeta assets/rocks
 const images = importAll(
-  require.context("../../assets/rocks", false, /\.(webp)$/)
+  require.context("../../assets/images/webp/rocks", false, /\.(webp)$/)
 );
 
 export const Rock = () => {

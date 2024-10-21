@@ -9,6 +9,7 @@ interface ButtonProps {
   disabled?: boolean;
   style?: React.CSSProperties;
   className?: string;
+  icon?: React.ReactNode;
 }
 
 export const Button = (props: ButtonProps) => {
@@ -30,6 +31,7 @@ export const Button = (props: ButtonProps) => {
         rel="noopener noreferrer"
         style={{ ...props.style }}
       >
+        {props.icon && <span className="btn-icon">{props.icon}</span>}
         {props.label}
       </a>
     );
@@ -40,6 +42,7 @@ export const Button = (props: ButtonProps) => {
       style={{ ...props.style }}
       disabled={props.disabled}
     >
+      {props.icon && <span className="btn-icon">{props.icon}</span>}
       {props.label}
     </button>
   );

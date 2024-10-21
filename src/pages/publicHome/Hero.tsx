@@ -1,13 +1,14 @@
 import "./Hero.css";
-import img1 from "../../assets/fondo1.webp";
-import img2 from "../../assets/fondo2.webp";
-import img3 from "../../assets/fondo3.webp";
-import img4 from "../../assets/fondo4.webp";
+import img2 from "../../assets/images/webp/background/bg2.webp";
+import img3 from "../../assets/images/webp/background/bg3.webp";
+import img4 from "../../assets/images/webp/background/bg4.webp";
+import img5 from "../../assets/images/webp/background/bg5.webp";
+import img6 from "../../assets/images/webp/background/bg6.webp";
 import { ImageCarousel } from "../../components/ImageCarousel";
 import { Col, Row } from "react-bootstrap";
 import { Button } from "../../components/Button";
 
-var images = [img1, img2, img3, img4];
+var images = [img2, img3, img4, img5, img6];
 
 export const Hero = () => {
   return (

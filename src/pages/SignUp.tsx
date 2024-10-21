@@ -1,7 +1,9 @@
 import './SignUp.css';
+import logo from '../assets/images/svg/logos/logo.svg';
 import React, { useState } from 'react';
 import { Button } from '../components/Button';
 import { SearchInput } from '../components/SearchInput';
+import { Link } from 'react-router-dom';
 
 export const SignUp = () => {
   const [firstName, setFirstName] = useState('');
@@ -18,8 +20,11 @@ export const SignUp = () => {
 
 
   return (
-    <div className="signup-container">
+    <section className="signup-container">
       <form className="signup-form" onSubmit={handleSubmit}>
+        <div className="logo-container">
+          <Link to={'/'}><img src={logo} alt="Logo de TheRocks" className='signup-logo' /></Link>
+        </div>
         <h2>Registro</h2>
         <p>Crea tu cuenta. Es gratis y solo toma un minuto.</p>
 
@@ -76,6 +81,6 @@ export const SignUp = () => {
           />
         </div>
       </form>
-    </div>
+    </section>
   );
 };

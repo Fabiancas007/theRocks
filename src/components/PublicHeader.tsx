@@ -1,5 +1,5 @@
 import { Navbar, Container, Nav } from "react-bootstrap";
-import logo from "../assets/LogoHorWhite.svg";
+import logo from "../assets/images/svg/logos/LogoHorWhite.svg";
 import { Link } from "react-router-dom";
 import { Button } from "./Button";
 import "./PublicHeader.css";

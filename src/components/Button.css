@@ -37,3 +37,7 @@
     background-color: #ccc;
     cursor: not-allowed;
 }
+.btn-icon {
+    margin-right: 8px;
+    vertical-align: middle;
+  }

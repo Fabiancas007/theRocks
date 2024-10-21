@@ -1,5 +1,4 @@
 declare module '*.webp';
-declare module '*.svg';
 
 // Definir el tipo __WebpackModuleApi si es necesario
 declare namespace __WebpackModuleApi {

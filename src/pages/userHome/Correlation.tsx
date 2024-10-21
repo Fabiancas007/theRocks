@@ -1,6 +1,6 @@
 import "./Correlation.css"
 import React, { useState } from 'react';
-import correlationsData from '../../assets/Correlations.json';
+import correlationsData from '../../assets/data/Correlations.json';
 import { SelectInput } from '../../components/SelectInput';
 import { SearchInput } from '../../components/SearchInput';
 import Table from '../../components/Table';

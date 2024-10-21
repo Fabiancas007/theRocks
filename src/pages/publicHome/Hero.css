@@ -3,7 +3,7 @@
   justify-content: space-around;
   gap: 40px;
   align-items: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(../../assets/fondo5.webp);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(../../assets/images/webp/background/bg1.webp);
   background-size: cover;
   color: white;
   padding: 80px 20px;
