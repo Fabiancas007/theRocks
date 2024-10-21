@@ -50,10 +50,10 @@ export const Card = (props: CardProps) => {
         )}
         <p className="card-text">{props.paragraph}</p>
         {props.route && (
-          <Button label={props.label_btn} route={props.route} />
+          <Button label={props.label_btn} route={props.route} className="primary"/>
         )}
         {props.href && (
-          <Button label={props.label_btn} href={props.href} />
+          <Button label={props.label_btn} href={props.href}  className="primary"/>
         )}
       </div>
     </div>

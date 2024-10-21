@@ -14,14 +14,14 @@ export const Resources = () => {
             title="Tutoriales en Video"
             paragraph="Aprende a utilizar las funcionalidades de la aplicación a través de videos explicativos."
             label_btn="Ver Tutoriales"
-            href="/recursos/tutoriales"
+            route="/recursos/tutoriales"
           />
         <Card
             icon={FaChalkboardTeacher}
             title="Webinars y Presentaciones"
             paragraph="Participa en webinars y revisa presentaciones sobre geotecnia y análisis de rocas."
             label_btn="Ver Webinars"
-            href="/recursos/webinars"
+            route="/recursos/webinars"
           />
         <Card
             icon={FaDownload}
@@ -35,7 +35,7 @@ export const Resources = () => {
             title="Enlaces a Herramientas Externas"
             paragraph="Encuentra enlaces a herramientas y recursos externos que complementan tu trabajo."
             label_btn="Ver Herramientas"
-            href="/recursos/herramientas"
+            route="/recursos/herramientas"
           />
       </div>
       {/* Enlaces a otras subsecciones */}
