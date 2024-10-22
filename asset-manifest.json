@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/theRocks/static/css/main.9edd6621.css",
-    "main.js": "/theRocks/static/js/main.f919c1a9.js",
+    "main.css": "/theRocks/static/css/main.1daf2b02.css",
+    "main.js": "/theRocks/static/js/main.40395c46.js",
     "static/js/453.bd5b04ba.chunk.js": "/theRocks/static/js/453.bd5b04ba.chunk.js",
     "static/media/bg2.webp": "/theRocks/static/media/bg2.8853d6cdab5248f0006e.webp",
     "static/media/bg3.webp": "/theRocks/static/media/bg3.3d520fbd05bb7b08157c.webp",
@@ -70,12 +70,12 @@
     "static/media/accessibility.svg": "/theRocks/static/media/accessibility.7f78efb0e782e2d734e9f825b1a00cc6.svg",
     "static/media/check.svg": "/theRocks/static/media/check.9784e9c054522e3ee3cbb366476fb366.svg",
     "index.html": "/theRocks/index.html",
-    "main.9edd6621.css.map": "/theRocks/static/css/main.9edd6621.css.map",
-    "main.f919c1a9.js.map": "/theRocks/static/js/main.f919c1a9.js.map",
+    "main.1daf2b02.css.map": "/theRocks/static/css/main.1daf2b02.css.map",
+    "main.40395c46.js.map": "/theRocks/static/js/main.40395c46.js.map",
     "453.bd5b04ba.chunk.js.map": "/theRocks/static/js/453.bd5b04ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9edd6621.css",
-    "static/js/main.f919c1a9.js"
+    "static/css/main.1daf2b02.css",
+    "static/js/main.40395c46.js"
   ]
 }
