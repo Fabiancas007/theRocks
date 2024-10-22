@@ -121,7 +121,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Diamante",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2022,
+    "YEAR": 2012,
     "MIN": 0.1,
     "MAX": 0.2
   },
@@ -175,7 +175,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Epidota",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2023,
+    "YEAR": 2013,
     "MIN": 0.26,
     "MAX": ""
   },
@@ -184,7 +184,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Feldespato de ortoclasa",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2028,
+    "YEAR": 2018,
     "MIN": 0.27,
     "MAX": ""
   },
@@ -391,7 +391,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Magnetita",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2025,
+    "YEAR": 2015,
     "MIN": 0.26,
     "MAX": ""
   },
@@ -427,7 +427,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Oligoclase",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2029,
+    "YEAR": 2019,
     "MIN": 0.28,
     "MAX": ""
   },
@@ -445,7 +445,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Olivino",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2027,
+    "YEAR": 2017,
     "MIN": 0.24,
     "MAX": ""
   },
@@ -688,7 +688,7 @@
     "ORIGIN": "Metamórfica",
     "ROCK_TYPE": "Galena",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2024,
+    "YEAR": 2014,
     "MIN": 0.3,
     "MAX": ""
   },
@@ -1165,7 +1165,7 @@
     "ORIGIN": "Sedimentaria",
     "ROCK_TYPE": "Cuarzo",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2030,
+    "YEAR": 2020,
     "MIN": 0.2,
     "MAX": ""
   },
@@ -1390,7 +1390,7 @@
     "ORIGIN": "Sedimentaria",
     "ROCK_TYPE": "Moscovita",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2026,
+    "YEAR": 2016,
     "MIN": 0.25,
     "MAX": ""
   },
@@ -1489,7 +1489,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Diamante",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2022,
+    "YEAR": 2012,
     "MIN": 1050,
     "MAX": ""
   },
@@ -1534,7 +1534,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Epidota",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2023,
+    "YEAR": 2013,
     "MIN": 154.2,
     "MAX": ""
   },
@@ -1552,7 +1552,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Feldespato de ortoclasa",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2028,
+    "YEAR": 2018,
     "MIN": 67.2,
     "MAX": ""
   },
@@ -1714,7 +1714,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Magnetita",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2025,
+    "YEAR": 2015,
     "MIN": 230.8,
     "MAX": ""
   },
@@ -1732,7 +1732,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Oligoclase",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2029,
+    "YEAR": 2019,
     "MIN": 80.8,
     "MAX": ""
   },
@@ -1750,7 +1750,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Olivino",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2027,
+    "YEAR": 2017,
     "MIN": 200.1,
     "MAX": ""
   },
@@ -1894,7 +1894,7 @@
     "ORIGIN": "Metamórfica",
     "ROCK_TYPE": "Galena",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2024,
+    "YEAR": 2014,
     "MIN": 71.7,
     "MAX": ""
   },
@@ -2362,7 +2362,7 @@
     "ORIGIN": "Sedimentaria",
     "ROCK_TYPE": "Cuarzo",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2030,
+    "YEAR": 2020,
     "MIN": 96.4,
     "MAX": ""
   },
@@ -2551,7 +2551,7 @@
     "ORIGIN": "Sedimentaria",
     "ROCK_TYPE": "Moscovita",
     "AUTHOR": "Verbrugge y Schroeder",
-    "YEAR": 2026,
+    "YEAR": 2016,
     "MIN": 78.9,
     "MAX": ""
   },
@@ -2794,7 +2794,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Granito",
     "AUTHOR": "Sandoval Vallejo y Rivera Mena",
-    "YEAR": 2022,
+    "YEAR": 2012,
     "MIN": 45,
     "MAX": 58
   },
@@ -2983,7 +2983,7 @@
     "ORIGIN": "Ígnea",
     "ROCK_TYPE": "Toba",
     "AUTHOR": "Sandoval Vallejo y Rivera Mena",
-    "YEAR": 2022,
+    "YEAR": 2012,
     "MIN": 15,
     "MAX": 30
   },
@@ -3577,7 +3577,7 @@
     "ORIGIN": "Sedimentaria",
     "ROCK_TYPE": "Yeso",
     "AUTHOR": "Sandoval Vallejo y Rivera Mena",
-    "YEAR": 2023,
+    "YEAR": 2013,
     "MIN": 30,
     "MAX": 30
   },
@@ -4738,7 +4738,7 @@
     "ORIGIN": "Sedimentaria",
     "ROCK_TYPE": "Lulita",
     "AUTHOR": "Lara y Lemus",
-    "YEAR": 2022,
+    "YEAR": 2012,
     "MIN": 22,
     "MAX": 26
   },
@@ -4747,7 +4747,7 @@
     "ORIGIN": "Sedimentaria",
     "ROCK_TYPE": "Creta",
     "AUTHOR": "Lara y Lemus",
-    "YEAR": 2023,
+    "YEAR": 2013,
     "MIN": 17,
     "MAX": 23
   },
@@ -4756,7 +4756,7 @@
     "ORIGIN": "Sedimentaria",
     "ROCK_TYPE": "Grauvaca",
     "AUTHOR": "Lara y Lemus",
-    "YEAR": 2023,
+    "YEAR": 2013,
     "MIN": "",
     "MAX": 28
   }

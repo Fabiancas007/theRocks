@@ -9,7 +9,7 @@ export const Benefits = () => {
         <Card
         icon={FaClock}
         title="Ahorro de tiempo y dinero"
-        paragraph="Optimiza tus procesos, reduciendo costos de ensayos y tiempo de análisis."
+        paragraph="Optimiza tus procesos, verificando lo resultados de ensayos y tiempo de análisis."
         />
         <Card
         icon={FaRobot}

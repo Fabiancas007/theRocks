@@ -5,7 +5,6 @@ import { Button } from "../components/Button";
 import { SearchInput } from "../components/SearchInput";
 import { Link } from "react-router-dom";
 import { FaUser, FaLock } from "react-icons/fa";
-import { FcGoogle } from "react-icons/fc";
 
 export const Login = () => {
   const [email, setEmail] = useState("");
@@ -61,38 +60,19 @@ export const Login = () => {
           className="primary"
           style={{ width: "100%" }}
         />
-        {/* Divisor */}
-        <div className="position-relative">
-          <hr className="text-secondary" />
-          <div className="divider-content-center">ó</div>
+        <div>
+          <Link to="/forgot-password" className="form-link forgot">
+            ¿Olvido su contraseña?
+          </Link>
         </div>
 
-        {/* Inicio de sesión con Gmail */}
-        <button className="btn btn-outline-secondary w-100 mb-">
-          <FcGoogle />
-          Ingresar con Google
-        </button>
-
-        <div className="mt-3 d-flex justify-content-between">
-          <div className= "signup-terms">
-            <input type="checkbox" id="formCheck"/>
-            <label htmlFor="formCheck">
-              Recuerdame
-            </label>
-          </div>
-          <div>
-              <Link to="/forgot-password" className="form-link">
-                ¿Olvido su contraseña?
-              </Link>
-          </div>
-        </div>
         <Button label="Volver" route="/" className="secondary" />
 
         <div className="mt-3 d-flex justify-content-between">
-            ¿Aún no tiene una cuenta?
-            <Link to="/signup" className="form-link fw-bold">
-              Registrese
-            </Link>
+          ¿Aún no tiene una cuenta?
+          <Link to="/signup" className="form-link fw-bold">
+            Registrese
+          </Link>
         </div>
       </form>
     </section>

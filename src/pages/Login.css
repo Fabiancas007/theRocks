@@ -47,24 +47,15 @@
     font-weight: 300;
     /* text-align: center; */
 }
+.forgot{
+  text-decoration: none;
+  margin: 15px 0;
+  display: flex;
+  justify-content: right;
+}
 .form-link{
     text-decoration: none;
 }
 .form-link:hover{
     text-decoration: underline;
-}
-.divider-content-center{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    background-color: rgba(255, 255, 255, .2);
-    font-size: 0.8rem;
-    font-weight: 500;
-    color: #999;
-}
-.divider{
-    margin: 2rem 0;
 }
