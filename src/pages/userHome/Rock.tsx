@@ -1,6 +1,6 @@
 import "./Rock.css";
-import rocksData from "../../assets/data/Rocas_canvas_info.json";
-import correlationsData from "../../assets/data/Correlations.json";
+import rocksData from "../../assets/data/rocks_canvas_data.json";
+import correlationsData from "../../assets/data/correlations_data.json";
 import { SelectInput } from "../../components/SelectInput";
 import { SearchInput } from "../../components/SearchInput";
 import { Card } from "../../components/Card";

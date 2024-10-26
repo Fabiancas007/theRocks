@@ -24,6 +24,7 @@ export const SearchInput = (props: SearchInputProps) => {
                 checked={props.checked}
                 name={props.name}
                 id={props.id}
+                required
             />
         </>
     );

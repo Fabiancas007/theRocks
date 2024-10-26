@@ -1,6 +1,6 @@
 import "./Correlation.css"
 import React, { useState } from 'react';
-import correlationsData from '../../assets/data/Correlations.json';
+import correlationsData from '../../assets/data/correlations_data.json';
 import { SelectInput } from '../../components/SelectInput';
 import { SearchInput } from '../../components/SearchInput';
 import Table from '../../components/Table';
@@ -18,7 +18,7 @@ export const Correlation = () => {
     const matchesOrigin = selectedOrigin === '' || correlation.ORIGIN === selectedOrigin;
     const matchesRockType = searchRockType === '' || correlation.ROCK_TYPE.toLowerCase().includes(searchRockType.toLowerCase());
     const matchesAuthor = searchAuthor === '' || correlation.AUTHOR.toLowerCase().includes(searchAuthor.toLowerCase());
-    const matchesYear = searchYear === '' || correlation.YEAR.toString().includes(searchYear);
+    const matchesYear = searchYear === '' || correlation.YEAR?.toString().includes(searchYear);
 
     return matchesTest && matchesOrigin && matchesRockType && matchesAuthor && matchesYear;
   });

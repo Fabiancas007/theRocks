@@ -1,5 +1,6 @@
 import "./Login.css";
 import logo from "../assets/images/svg/logos/logo.svg";
+import Swal from "sweetalert2";
 import React, { useState } from "react";
 import { Button } from "../components/Button";
 import { SearchInput } from "../components/SearchInput";
@@ -9,7 +10,43 @@ import { FaUser, FaLock } from "react-icons/fa";
 export const Login = () => {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-  // const [rememberMe, setRememberMe] = useState(false);
+  // Función para manejar la solicitud de contraseña
+  const handleForgotPassword = async () => {
+    const { value: userEmail } = await Swal.fire({
+      title: "¿Olvidaste su contraseña?",
+      input: "email",
+      inputLabel: "Ingrese su correo electrónico",
+      inputPlaceholder: "correo@ejemplo.com",
+      confirmButtonText: "Enviar",
+      showCancelButton: true,
+      cancelButtonText: "Cancelar",
+      customClass: {
+        confirmButton: "my-btn primary", // Clase de estilo para el botón
+        cancelButton: "my-btn secondary", // Clase de estilo para el botón de cancelar
+      },
+      inputValidator: (value) => {
+        if (!value) {
+          return "Por favor ingrese su correo electrónico";
+        }
+        return null;
+      },
+    });
+    if (userEmail) {
+      console.log("Correo ingresado para recuperación:", userEmail);
+      // Aquí va la lógica para enviar el correo de recuperación
+
+
+      Swal.fire({
+        title: 'Correo de recuperación enviado',
+        text: 'Se ha enviado un correo de recuperación a su bandeja de entrada.',
+        icon: 'success',
+        confirmButtonText: 'Aceptar',
+        customClass: {
+          confirmButton: 'my-btn primary',
+        },
+      });
+    }
+  };
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -61,12 +98,21 @@ export const Login = () => {
           style={{ width: "100%" }}
         />
         <div>
-          <Link to="/forgot-password" className="form-link forgot">
+          <Link
+            to="#"
+            onClick={handleForgotPassword}
+            className="form-link forgot"
+          >
             ¿Olvido su contraseña?
           </Link>
         </div>
 
-        <Button label="Volver" route="/" className="secondary" />
+        <Button
+          label="Volver"
+          route="/"
+          className="secondary"
+          style={{ width: "100%" }}
+        />
 
         <div className="mt-3 d-flex justify-content-between">
           ¿Aún no tiene una cuenta?

@@ -1,0 +1,26 @@
+.chart-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    padding: 1rem;
+  }
+  
+  /* Ajustes para pantallas pequeñas */
+  @media (max-width: 768px) {
+    .chart-container {
+      padding: 0.5rem;
+    }
+  
+    .chart-container canvas {
+      width: 100% !important;
+      height: auto !important;
+    }
+  }
+  @media (max-width: 400px) {
+    .chart-container canvas {
+      width: 100% !important;
+      height: 380px !important;
+    }
+  }
+  

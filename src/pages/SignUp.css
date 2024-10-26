@@ -33,24 +33,6 @@
   margin-bottom: 20px;
 }
 
-.signup-terms {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  font-size: 0.9rem;
-  margin-bottom: 20px;
-  color: #666;
-  line-height: 1.2;
-}
-
-.signup-terms label {
-  flex: 1;
-}
-
-#terms{
-  width:20px;
-}
-
 .signup-btns {
   display: flex;
   justify-content: space-between;

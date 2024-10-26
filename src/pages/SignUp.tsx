@@ -1,9 +1,10 @@
 import './SignUp.css';
 import logo from '../assets/images/svg/logos/logo.svg';
 import React, { useState } from 'react';
+import { Link, useNavigate } from 'react-router-dom';
+import Swal from 'sweetalert2';
 import { Button } from '../components/Button';
 import { SearchInput } from '../components/SearchInput';
-import { Link } from 'react-router-dom';
 
 export const SignUp = () => {
   const [firstName, setFirstName] = useState('');
@@ -11,13 +12,29 @@ export const SignUp = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
+  const navigate = useNavigate();  // Hook para la navegación
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     // Lógica de registro
     console.log('Formulario enviado:', { firstName, lastName, email, password, confirmPassword });
-  };
 
+
+    // Alerta de registro exitoso
+    Swal.fire({
+      title: 'Registro exitoso',
+      text: 'Tu cuenta ha sido creada satisfactoriamente.',
+      icon: 'success',
+      confirmButtonText: 'Aceptar',
+      customClass: {
+        confirmButton: 'my-btn primary', // Clase CSS del botón de SweetAlert2
+      },
+    }).then((result) => {
+      if (result.isConfirmed) {
+        navigate('/login'); // Redirige a la página de login
+      }
+    });
+  };
 
   return (
     <section className="signup-container">
@@ -60,24 +77,23 @@ export const SignUp = () => {
             type="password"
           />
         </div>
-
-        <div className="signup-terms">
-          <input type="checkbox" id="terms" />
-          <label htmlFor="terms">
-            Acepto los <a href="https://app.aluracursos.com/loginForm?urlAfterLogin=%5BaHR0cHM6Ly9hcHAuYWx1cmFjdXJzb3MuY29tL2NvdXJzZXMvbWluZQ%5D">Términos de uso</a>
-          </label>
-        </div>
-
         <div className="signup-btns">
           <Button
             label="Registrar"
             onClick={handleSubmit} // 
             className="primary register-button"
+            disabled={
+              firstName === "" ||
+              lastName === "" ||
+              email === "" ||
+              password === "" ||
+              confirmPassword === ""
+            }
           />
           <Button
             label="Volver"
             className="secondary back-button"
-            route='/login'
+            route='/'
           />
         </div>
       </form>

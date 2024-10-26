@@ -1,44 +1,42 @@
-import './Test.css';
-import correlationsData from '../../assets/data/Correlations.json';
-import { SelectInput } from '../../components/SelectInput';
-import { Button } from '../../components/Button';
-import { useState } from 'react';
-import graphic from "../../assets/images/svg/graphic.svg";
-
-// Importar dinámicamente las imágenes
-const importAll = (r: __WebpackModuleApi.RequireContext) => {
-  let images: { [key: string]: string } = {};
-  r.keys().forEach((item: string) => {
-    images[item.replace('./', '')] = r(item);
-  });
-  return images;
-};
-
-// @ts-ignore: Ignorar verificación de TypeScript para require.context
-const images = importAll(require.context('../../assets/images/webp/graphics', true, /\.(webp)$/));
+import "./Test.css";
+import correlationsData from "../../assets/data/correlations_data.json";
+import img from "../../assets/images/svg/graphic.svg";
+import { useState } from "react";
+import { SelectInput } from "../../components/SelectInput";
+import { Button } from "../../components/Button";
+import { Chart } from "../../components/Chart";
 
 export const Test: React.FC = () => {
-  const [selectedTest, setSelectedTest] = useState<string>('');
-  const [selectedOrigin, setSelectedOrigin] = useState<string>('');
-  const [selectedRockType, setSelectedRockType] = useState<string>('');
-  const [elasticityModulus, setElasticityModulus] = useState<string>('');
+  const [selectedTest, setSelectedTest] = useState<string>("");
+  const [selectedOrigin, setSelectedOrigin] = useState<string>("");
+  const [selectedRockType, setSelectedRockType] = useState<string>("");
+  const [elasticityModulus, setElasticityModulus] = useState<string>("");
   const [predictedValue, setPredictedValue] = useState<string | null>(null);
-  const [imagePath, setImagePath] = useState<string>('../../assets/images/svg/graphic.svg'); // Ruta inicial de la imagen
+  const [chartData, setChartData] = useState<any>(null);
+  const [showDefaultImage, setShowDefaultImage] = useState<boolean>(true); // Nuevo estado para manejar la imagen por defecto
 
   // Obtener las opciones únicas para el campo "TEST"
-  const testOptions = Array.from(new Set(correlationsData.map((item) => item.TEST)));
+  const testOptions = Array.from(
+    new Set(correlationsData.map((item) => item.TEST))
+  );
 
   // Obtener las opciones únicas para el campo "ORIGIN"
-  const originOptions = Array.from(new Set(correlationsData.map((item) => item.ORIGIN)));
+  const originOptions = Array.from(
+    new Set(correlationsData.map((item) => item.ORIGIN))
+  );
 
   // Filtrar los tipos de roca únicos basados en el origen seleccionado y eliminar duplicados
   const rockTypeOptions = Array.from(
-    new Set(correlationsData
-      .filter((item) => selectedOrigin === '' || item.ORIGIN === selectedOrigin)
-      .map((item) => item.ROCK_TYPE))
+    new Set(
+      correlationsData
+        .filter(
+          (item) => selectedOrigin === "" || item.ORIGIN === selectedOrigin
+        )
+        .map((item) => item.ROCK_TYPE)
+    )
   );
 
-  // Función para manejar la predicción y actualizar la imagen
+  // Función para manejar la predicción y actualizar el gráfico
   const handlePrediction = (): void => {
     const modulus = parseFloat(elasticityModulus);
     if (!isNaN(modulus)) {
@@ -48,21 +46,43 @@ export const Test: React.FC = () => {
       setPredictedValue(null);
     }
 
-    // Construir la ruta de la imagen basada en las selecciones
-    const constructedPath = `${selectedTest}/${selectedOrigin}/${selectedRockType}.webp`;
-    const image = images[constructedPath];
+    const filteredData = correlationsData.filter(
+      (item) =>
+        item.TEST === selectedTest &&
+        item.ORIGIN === selectedOrigin &&
+        item.ROCK_TYPE === selectedRockType &&
+        item["LOWER LIMIT"] != null && 
+        item["UPPER LIMIT"] != null
+    );
 
-    if (image) {
-      setImagePath(image);
+    if (filteredData.length > 0) {
+      const labels = filteredData.map((item) => {
+        const year = item.YEAR ?? "";
+        return item.AUTHOR + (year ? ", " + year : "");
+      });
+      const minValues = filteredData.map((item) => item.MIN);
+      const maxValues = filteredData.map((item) => item.MAX);
+      const lowerLimits = filteredData.map((item) => item["LOWER LIMIT"]);
+      const upperLimits = filteredData.map((item) => item["UPPER LIMIT"]);
+      const title = Array.from(new Set(filteredData.map((item) => item.TITLE)));
+      const y_axis = Array.from(
+        new Set(filteredData.map((item) => item["Y AXIS"]))
+      );
+
+      setChartData({
+        labels,
+        minValues,
+        maxValues,
+        lowerLimits,
+        upperLimits,
+        title,
+        y_axis,
+      });
+      setShowDefaultImage(false); // Oculta la imagen si los datos están completos
     } else {
-      setImagePath(graphic); // Imagen por defecto
+      setShowDefaultImage(true); // Muestra la imagen por defecto si faltan datos
+      setChartData(null); // Limpiar los datos del gráfico
     }
-  };
-
-  // Función para manejar el error de carga de la imagen y mostrar la imagen por defecto
-  const handleImageError = (e: React.SyntheticEvent<HTMLImageElement>): void => {
-    e.currentTarget.onerror = null; // Previene bucles infinitos
-    e.currentTarget.src = graphic ; // Ruta por defecto
   };
 
   return (
@@ -86,7 +106,7 @@ export const Test: React.FC = () => {
             value={selectedOrigin}
             text="Selecciona el origen"
             onSelect={setSelectedOrigin}
-            disabled={selectedTest === ''}
+            disabled={selectedTest === ""}
           />
 
           {/* Selector para el tipo de roca */}
@@ -96,7 +116,7 @@ export const Test: React.FC = () => {
             value={selectedRockType}
             text="Selecciona el tipo de roca"
             onSelect={setSelectedRockType}
-            disabled={selectedOrigin === ''}
+            disabled={selectedOrigin === ""}
           />
 
           {/* Entrada para el módulo de elasticidad */}
@@ -114,26 +134,25 @@ export const Test: React.FC = () => {
             label="Predecir Coeficiente de Variación"
             onClick={handlePrediction}
             disabled={
-              selectedTest === '' ||
-              selectedOrigin === '' ||
-              selectedRockType === '' ||
-              elasticityModulus === ''
+              selectedTest === "" ||
+              selectedOrigin === "" ||
+              selectedRockType === "" ||
+              elasticityModulus === ""
             }
-            className='primary'
-            style={{ width: '100%' }}
+            className="primary"
+            style={{ width: "100%" }}
           />
         </div>
 
         <div className="right">
-          <img
-            src={imagePath}
-            alt="Resultado de la Prueba"
-            onError={handleImageError}
-            className="result-image"
-          />
+          {/* Renderizar la imagen por defecto si faltan datos, de lo contrario mostrar el gráfico */}
+          {showDefaultImage ? (
+            <img src={img} alt="Gráfico por defecto" />
+          ) : (
+            chartData && <Chart data={chartData} />
+          )}
         </div>
       </div>
-
       {/* Mostrar el resultado de la predicción */}
       {predictedValue && (
         <div className="result">
