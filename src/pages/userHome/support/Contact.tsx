@@ -2,10 +2,29 @@ import "./Contact.css";
 import { Button } from "../../../components/Button";
 import { SearchInput } from "../../../components/SearchInput";
 import { useState } from "react";
+import Swal from "sweetalert2";
 
 export const Contact = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    // Lógica del envio del correo
+
+
+
+    //Alerta
+    Swal.fire({
+      title: 'Correo enviado',
+      text: 'Se ha enviado un correo con su solicitud',
+      icon: 'success',
+      confirmButtonText: 'Aceptar',
+      customClass: {
+        confirmButton: 'my-btn primary',
+      },
+    });
+  }
 
   return (
     <section id="contact">
@@ -48,7 +67,7 @@ export const Contact = () => {
             ></textarea>
           </div>
 
-          <Button label="Enviar mensaje" className="primary" />
+          <Button label="Enviar mensaje" className="primary" onClick={handleSubmit}/>
         </form>
       </div>
     </section>
