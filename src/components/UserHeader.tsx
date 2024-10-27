@@ -122,13 +122,6 @@ export const UserHeader = () => {
                   >
                     Mi cuenta
                   </Dropdown.Item>
-                  <Dropdown.Item
-                    as={Link}
-                    to="/settings"
-                    className="nav-dropdown-item"
-                  >
-                    Ajustes
-                  </Dropdown.Item>
                   <Dropdown.Divider />
                   <Dropdown.Item className="nav-dropdown-item">
                     <Button

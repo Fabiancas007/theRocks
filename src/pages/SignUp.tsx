@@ -79,16 +79,9 @@ export const SignUp = () => {
         </div>
         <div className="signup-btns">
           <Button
-            label="Registrar"
-            onClick={handleSubmit} // 
+            type='submit'
+            label="Registrar"             
             className="primary register-button"
-            disabled={
-              firstName === "" ||
-              lastName === "" ||
-              email === "" ||
-              password === "" ||
-              confirmPassword === ""
-            }
           />
           <Button
             label="Volver"

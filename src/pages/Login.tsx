@@ -92,6 +92,7 @@ export const Login = () => {
           </div>
         </div>
         <Button
+          type="submit"
           label="Ingresar"
           route="/dashboard"
           className="primary"

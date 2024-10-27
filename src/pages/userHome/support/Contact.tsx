@@ -35,7 +35,7 @@ export const Contact = () => {
           ¡Envíanos un mensaje!
         </p>
 
-        <form className="contact-form">
+        <form className="contact-form" onSubmit={handleSubmit}>
           <div className="form-group">
             <label htmlFor="name">Nombre</label>
             <SearchInput
@@ -67,7 +67,7 @@ export const Contact = () => {
             ></textarea>
           </div>
 
-          <Button label="Enviar mensaje" className="primary" onClick={handleSubmit}/>
+          <Button label="Enviar mensaje" className="primary" type="submit"/>
         </form>
       </div>
     </section>

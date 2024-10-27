@@ -5,10 +5,11 @@ import correlations from "../../assets/images/gif/correlations.gif";
 import support from "../../assets/images/gif/support.gif";
 import settings from "../../assets/images/gif/settings.gif";
 import { Card } from "../../components/Card";
+import { Link } from "react-router-dom";
 
 export const Dashboard = () => {
   return (
-    <section className="card-section">
+    <section id="dashboard" className="card-section">
       {/* Panel de Bienvenida */}
       <div className="welcome-panel">
         <h1>¡Bienvenido, Usuario!</h1>
@@ -39,8 +40,8 @@ export const Dashboard = () => {
         <Card url_image={support} title="Soporte" redirectTo="/support/faq" />
         <Card
           url_image={settings}
-          title="Configuración"
-          redirectTo="/settings"
+          title="Configuración de cuenta"
+          redirectTo="/account"
         />
       </div>
 
@@ -63,8 +64,8 @@ export const Dashboard = () => {
       <div className="resources-section">
         <h2>Tutoriales y Recursos Rápidos</h2>
         <div className="resources-links">
-          <a href="/tutoriales">Ver Tutoriales</a>
-          <a href="/documentacion">Documentación</a>
+          <Link to="/support/resources">Ver Tutoriales</Link>
+          <Link to="/support/documentation">Documentación</Link>
         </div>
       </div>
     </section>

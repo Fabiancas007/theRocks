@@ -10,6 +10,7 @@ interface ButtonProps {
   style?: React.CSSProperties;
   className?: string;
   icon?: React.ReactNode;
+  type?: "button" | "submit" | "reset";
 }
 
 export const Button = (props: ButtonProps) => {
@@ -37,7 +38,9 @@ export const Button = (props: ButtonProps) => {
     );
   }
   return (
-    <button className={`my-btn ${props.className || ''}`}
+    <button 
+      type={props.type || "button"}
+      className={`my-btn ${props.className || ''}`}
       onClick={handleClick}
       style={{ ...props.style }}
       disabled={props.disabled}
