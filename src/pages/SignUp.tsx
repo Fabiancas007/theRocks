@@ -12,7 +12,7 @@ export const SignUp = () => {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
-  const navigate = useNavigate();  // Hook para la navegación
+  const navigate = useNavigate();  
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -23,15 +23,15 @@ export const SignUp = () => {
     // Alerta de registro exitoso
     Swal.fire({
       title: 'Registro exitoso',
-      text: 'Tu cuenta ha sido creada satisfactoriamente.',
+      text: 'Su cuenta ha sido creada satisfactoriamente.',
       icon: 'success',
       confirmButtonText: 'Aceptar',
       customClass: {
-        confirmButton: 'my-btn primary', // Clase CSS del botón de SweetAlert2
+        confirmButton: 'my-btn primary',
       },
     }).then((result) => {
       if (result.isConfirmed) {
-        navigate('/login'); // Redirige a la página de login
+        navigate('/login'); 
       }
     });
   };

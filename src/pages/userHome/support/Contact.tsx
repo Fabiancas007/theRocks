@@ -16,8 +16,8 @@ export const Contact = () => {
 
     //Alerta
     Swal.fire({
-      title: 'Correo enviado',
-      text: 'Se ha enviado un correo con su solicitud',
+      title: 'Mensaje recibido',
+      text: 'Gracias por ponerse en contacto con nosotros. Nos comunicaremos lo antes posible.',
       icon: 'success',
       confirmButtonText: 'Aceptar',
       customClass: {

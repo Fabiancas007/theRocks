@@ -16,7 +16,7 @@ export const UserHeader = () => {
   const handleLogout = () => {
     Swal.fire({
       title: "¿Cerrar sesión?",
-      text: "¿Estás seguro de que quieres cerrar sesión?",
+      text: "¿Está seguro de que quiere cerrar sesión?",
       icon: "warning",
       showCancelButton: true,
       confirmButtonText: "Sí, salir",

@@ -13,7 +13,7 @@ export const Login = () => {
   // Función para manejar la solicitud de contraseña
   const handleForgotPassword = async () => {
     const { value: userEmail } = await Swal.fire({
-      title: "¿Olvidaste su contraseña?",
+      title: "¿Olvidó su contraseña?",
       input: "email",
       inputLabel: "Ingrese su correo electrónico",
       inputPlaceholder: "correo@ejemplo.com",
